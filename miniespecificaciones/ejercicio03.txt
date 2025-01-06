@@ -20,3 +20,4 @@
 // 30
 // 110
 //
+En éste ejercicio existen 2 procedimientos ya que no existe ningún retorno para que alguno sea considerado una función.
